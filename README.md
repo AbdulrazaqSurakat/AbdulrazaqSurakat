@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul</h1>
 <h3 align="center">A passionate computer engineering student in MA, US</h3>
 
-- 👨‍💻 All of my projects are available at [portfolio-as.carrd.co/](portfolio-as.carrd.co/)
+- 👨‍💻 All of my projects are available at [https://portfolio-as.carrd.co/](https://portfolio-as.carrd.co/)
 
 - 💬 Ask me about **pytorch, deep learning models, python, C++, HTML, CSS**
 
@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulrazaqsurakat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulrazaqsurakat/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
