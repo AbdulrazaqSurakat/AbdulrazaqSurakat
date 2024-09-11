@@ -45,4 +45,7 @@
   <a href="https://pytorch.org/" target="_blank">
     <img align="left" alt="PyTorch" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
   </a>
+    <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img align="left" alt="MATLAB" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" />
+  </a>
 </p>
