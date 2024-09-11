@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdul</h1>
 <h2 align="center">Embedded Software Engineer</h2>
 
-- 👨‍💻 All of my projects are available at My Portfolio
+- 👨‍💻 All of my projects are available at [My Portfolio](https://abdulrazaqsurakat.github.io/portfolio/)
 - 💬 Ask me about **PyTorch, Deep Learning Models, Python, C++, C#**
 - 📫 How to reach me **surakat.a@northeastern.edu**
-- 📄 Know about my experiences My Resume
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1It2UXvB2hUyeSt769NnkTTFGVfC173BN/view?usp=sharing)
 - ⚡ Fun fact **I like zombie movies**
 
 <h3>🤳 Connect with me:</h3>
