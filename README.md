@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul</h1>
 <h2 align="center">Embedded Software Engineer</h2>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://abdulrazaqsurakat.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://abdulrazaqsurakat.github.io/Project-Portfolio/)
 - 💬 Ask me about **PyTorch, Deep Learning Models, Python, C++, C#**
 - 📫 How to reach me **surakat.a@northeastern.edu**
 -  Subscribe to my AI Newsletter: [My AI Newsletter](https://theaibrief734.substack.com/?r=33n1y9&utm_campaign=pub&utm_medium=web)
