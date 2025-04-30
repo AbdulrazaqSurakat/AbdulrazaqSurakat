@@ -4,6 +4,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abdulrazaqsurakat.github.io/portfolio/)
 - 💬 Ask me about **PyTorch, Deep Learning Models, Python, C++, C#**
 - 📫 How to reach me **surakat.a@northeastern.edu**
+-  Subscribe to my AI Newsletter: [My AI Newsletter](https://theaibrief734.substack.com/?r=33n1y9&utm_campaign=pub&utm_medium=web)
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1It2UXvB2hUyeSt769NnkTTFGVfC173BN/view?usp=sharing)
 - ⚡ Fun fact **I like zombie movies**
 
