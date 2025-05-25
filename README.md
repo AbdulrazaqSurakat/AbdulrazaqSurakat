@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul</h1>
-<h2 align="center">Embedded Software Engineer</h2>
+<h2 align="center"> Software Engineer</h2>
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abdulrazaqsurakat.github.io/Project-Portfolio/)
 - 💬 Ask me about **PyTorch, Deep Learning Models, Python, C++, C#**
